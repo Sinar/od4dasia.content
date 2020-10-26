@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<layers>
+  <layer
+      name="od4dasia.content"
+      interface="od4dasia.content.interfaces.IOd4DasiaContentLayer"
+      />
+</layers>
